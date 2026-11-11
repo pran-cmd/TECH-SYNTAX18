@@ -1,4 +1,4 @@
-<!DOCTYPE>
+<!DOCTYPE><br>
 WEB DEVELOPER CSS,PYTHONE,HTML
 <html lang="en">
 <head>
@@ -20,8 +20,7 @@ WEB DEVELOPER CSS,PYTHONE,HTML
     </header>
 
     <section id="home" class="hero">
-        <h1>PRANAV BHALERAO
-        WELCOME</h1>
+        <h1>PRANAV BHALERAO</h1>
     <P>WELCOME TO MY WEBSITE!!!!<BR></p>
     <a href="https://www.instagram.com/tech_syntax18?srtk=MW1rYnFhbXQzY3l3cQ==">click hear to visit /tech_syntax18?srtk=MW1rYnFhbXQzY3l3cQ==</a>
     
@@ -81,7 +80,9 @@ My Skills:-----<BR>
     <section id="contact">
         <h2>#CONTACT ME </h2>
         <h3>Mobile no.</h3>7498359551
-        <p>Email: bhaleraopranav891@gmail.com</p>
+        <p>Email: bhaleraopranav891@gmail.com<br>
+                  bhaleraopranav644@gmail.com
+        </p>
     </section>
    
    
